@@ -1,4 +1,5 @@
 💳 Fraudulent Credit Card Detection
+
 🔍 Overview
 
 A machine learning classification project designed to detect fraudulent credit card transactions using highly imbalanced data. The project applies preprocessing, feature engineering, class balancing techniques, and multiple ML models to identify suspicious transactions effectively.
